@@ -1,11 +1,5 @@
 # Create a program that helps the cafe staff remember which agent prefers which beverage:
 
-# Agent J prefers coffee
-# Agent Q prefers decaf coffee
-# Agent S prefers coffee
-# Agent M prefers tea
-# Because coffee is a popular drink, the cafe sometimes runs out of regular coffee. If this happens, Agent S will drink decaf, but Agent J will have tea instead.
-
 import time
 
 agents = ["Jim", "Jack", "Jane", "Mike"]
